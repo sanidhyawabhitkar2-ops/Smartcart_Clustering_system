@@ -1,6 +1,5 @@
 # Smartcart_Clustering_system
 Customer Segmentation using Unsupervised Machine Learning
-# 🧠 SmartCart Clustering Engine
 
 *A General-Purpose Data Segmentation & Pattern Discovery System*
 
